@@ -8,3 +8,11 @@ Let’s see how it works. Cheers.
 
 [1]:	github.com/xiaolai
 [2]:	https://github.com/xiaolai/regular-investing-in-box
+
+
+
+#Contributing
+
+---
+
+If you are interested in reporting/fixing issues and contributing directly to the code base, please see [CONTRIBUTING.md](CONTRIBUTING)for more information on what we're looking for and how to get started.
