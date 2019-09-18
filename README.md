@@ -13,7 +13,7 @@ Let’s see how it works. Cheers.
 
 # Contributing
 
-If you are interested in reporting/fixing issues and contributing directly to the code base, please see [CONTRIBUTING.md](CONTRIBUTING)for more information on what we're looking for and how to get started.
+If you are interested in reporting/fixing issues and contributing directly to the code base, please see [CONTRIBUTING.md](CONTRIBUTING) for more information on what we're looking for and how to get started.
 
 
 # Proposed License
